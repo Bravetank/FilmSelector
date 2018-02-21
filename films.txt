@@ -1,0 +1,5 @@
+BS|FG|WWW
+BS|Way|WWW
+AP|G|www
+JS|Harvey|www
+JS|Wonderful|www
